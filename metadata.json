@@ -1,0 +1,8 @@
+{
+  "name": "SC-200 Exam Gym",
+  "description": "Personal study, KQL training, answer verification, and exam readiness web application for the Microsoft SC-200: Security Operations Analyst certification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

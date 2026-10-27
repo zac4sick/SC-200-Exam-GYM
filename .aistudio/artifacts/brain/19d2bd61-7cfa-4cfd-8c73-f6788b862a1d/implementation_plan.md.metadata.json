@@ -1,0 +1,6 @@
+{
+  "summary":  "Updated implementation plan for SC-200 Exam Gym incorporating Section 18: Critical Reliability, Privacy and Learning Improvements, including evidence-based answer verification with structured Microsoft Learn citations, private non-public PDF storage and processing disclosures, separate extraction vs. verification confidence tracking, deeper KQL technical learning with simulated output labels and table schemas, post-answer confidence tracking (Guessed/Unsure/Confident) with spaced repetition, honest first-attempt readiness modeling, and the 5-phase implementation and acceptance gates.",
+  "updatedAt":  "2026-10-27T03:56:46.953055642Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
